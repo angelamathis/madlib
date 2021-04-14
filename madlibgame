@@ -1,0 +1,46 @@
+name = input("Name of Character: ")
+adj1 = input("Adjective: ")
+adj2 = input("Adjective: ")
+noun1 = input("Type of Animal or Creature: ") 
+noun2 = input("Noun: ")
+adv1 = input("Adverb: ")
+adj2 = input("Adjective: ")
+adj3 = input("Adjective: ")
+noun3 = input("Body Part Noun: ")
+verb1 = input("Verb: ")
+verb2 = input("Verb: ")
+verb3 = input("Verb ending in -ing: ")
+verb4 = input("Verb ending in -ing: ")
+adv2 = input("Adverb: ")
+verb5 = input("Verb in the past tense: ")
+silly_phrase = input("Mocking Comment: ")
+verb6 = input("Verb in the past tense: ")
+adj4 = input("Adjective: ")
+sound_noun = input("Sound Noun: ")
+verb7 = input("Verb: ")
+noun4 = input("Noun: ")
+verb8 = input("Verb in the past tense: ")
+noun5 = input("Noun: ")
+verb9 = input("Verb in the past tense: ")
+adj5 = input("Adjective: ")
+noun6 = input("Noun: ")
+noun7 = input("Noun: ")
+adj6 = input("Adjective: ")
+verb10 = input("Verb: ")
+verb11 = input("Verb in the past tense: ")
+noun8 = input("Noun: ")
+noun9 = input("Noun: ")
+noun10 = input("Noun: ")
+verb12 = input("Verb: ")
+
+madlib = f"Running swiftly through the forest, {name} noticed a {adj1} scent. {name} stopped and began to sniff around to find the source. \
+{name} found the source. It was a {adj2} little {noun1} jumping from {noun2} to {noun2} above {name}'s head. Now, {name} was on the \
+trail of the {noun1}. He would {adv1} catch it as soon as he could get close enough to reach it's {adj3} {noun3}. He was close so \
+he began to {verb1} faster and {verb2} higher. The {noun1} was {verb3} and {verb4} and it {adv2} {verb5} and called down to him saying '{silly_phrase}!'. \
+The {noun1} {verb6} down closer to the ground and {name} knew that he had the {adj4} {noun1} right where he wanted him. \
+({sound_noun}!) {name} took one last {verb7} and bound right into the {noun4}. He {verb8} in suprise as the cool {noun5} {verb9} over him. What a {adj5} \
+{noun6} he had been. The {noun1} leapt neatly unto the branch of the {noun7} across the {noun4}. He called over his friends to come and see the {adj6} \
+{noun6} and they all {verb10} down at {name}. {name} pulled himself out of the {noun4} and {verb11} back to his {noun8}. He has his {noun9} \
+between his {noun10} today but tomorrow was a new day. And he vowed that he would {verb12} that {noun1} and bring him to justice."
+
+print(madlib)
